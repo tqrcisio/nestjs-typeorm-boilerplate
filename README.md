@@ -1,4 +1,4 @@
-# Bulario-Vet
+# Nestjs and TypeORM Boilerplate
 
 
 ## Project setup
